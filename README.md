@@ -1,5 +1,5 @@
 # AppleMusicRPC
-
+Discord server: https://discord.gg/gNWzdTWS7
 **Show what you're playing in Apple Music on your Discord profile, on Windows.**
 
 AppleMusicRPC displays your current Apple Music song on Discord as **"Listening to …"**, with the song title, artist, album cover, a time bar, and a **Listen on Apple Music** button.
